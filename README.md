@@ -1,5 +1,5 @@
 # sprint10.  
-## [Check it out:](https://abramsea.github.io/sprint10/)
+## Check it out [here](https://abramsea.github.io/sprint10/)
 
 ---
 
