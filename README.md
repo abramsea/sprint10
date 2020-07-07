@@ -5,4 +5,4 @@
 
 Hey, this is my yandex-praktikum homework.
 
-_version 1.0_
+_version 1.1, reviewed_
